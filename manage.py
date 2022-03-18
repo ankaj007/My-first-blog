@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Works as interface to run django command
 import os
 import sys
 
