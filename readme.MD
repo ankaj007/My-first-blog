@@ -1,8 +1,1 @@
-just for test
-
-<<<<<<< HEAD
-abc 
-ankaj
-=======
-abcabc
->>>>>>> master
+just for test and clean
